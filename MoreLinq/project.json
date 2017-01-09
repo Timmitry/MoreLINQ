@@ -73,7 +73,8 @@
       "buildOptions": {
         "compile": {
           "exclude": [
-            "ToDataTable.cs"
+            "ToDataTable.cs",
+            "NoConflict.ToDataTable.cs"
           ]
         },
         "define": [
@@ -96,7 +97,8 @@
       "buildOptions": {
         "compile": {
           "exclude": [
-            "ToDataTable.cs"
+            "ToDataTable.cs",
+            "NoConflict.ToDataTable.cs"
           ]
         },
         "define": [
