@@ -74,7 +74,7 @@
         "compile": {
           "exclude": [
             "ToDataTable.cs",
-            "NoConflict.ToDataTable.cs"
+            "NoConflict.ToDataTable.g.cs"
           ]
         },
         "define": [
@@ -98,7 +98,7 @@
         "compile": {
           "exclude": [
             "ToDataTable.cs",
-            "NoConflict.ToDataTable.cs"
+            "NoConflict.ToDataTable.g.cs"
           ]
         },
         "define": [
